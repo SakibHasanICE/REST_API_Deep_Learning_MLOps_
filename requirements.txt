@@ -4,3 +4,4 @@ scikit-learn
 keras
 tensorflow
 hyperopt ##librabry that help to perform hyperparameter tuning on deep learning
+ipykernel
